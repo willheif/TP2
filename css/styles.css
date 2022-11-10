@@ -133,7 +133,7 @@ float: left;
 }
 .avatar {
     display: block;
-        background-image: url("images/IMG_9887.png");
+        background-image: url("/images/IMG_9887.png");
         height: 200px;
         width: 200px;
         background-size: cover;
